@@ -21,7 +21,8 @@ Voici une capture d’écran montrant un exemple d’utilisation du projet :
 > La capture montre le menu de la calculatrice et un exemple de calcul.
 
 ---
-<img width="670" height="218" alt="test du prgram devops" src="https://github.com/user-attachments/assets/1ee8b74c-bfcb-400c-b22f-c56b911809f8" />
+<img width="670" height="218" alt="test du prgram devops" src="https://github.com/user-attachments/assets/1e0726d9-f3a0-4fd1-aa4d-389813daf43d" />
+
 
 ## Méthode de lancement du projet
 
